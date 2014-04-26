@@ -10,7 +10,7 @@ Supported Use Cases
 
 Disclaimer: The implementation is tightly coupled to my broader Evernote-based GTD organizational system (TODO: link to description of my system).
 It is meant to enhance **my own** productivity and efficiency using my system, which means some personalized behaviours within the code.
-It should quite easy to modify my scripts to suit your needs, and anyone is encouraged to do so!
+It should be quite easy to modify my scripts to suit your needs, and anyone is encouraged to do so!
 
 ### Quick creation of a new "action-note" with Launchy
 
